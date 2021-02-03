@@ -1,1 +1,1 @@
-alert("tu as fait nim")
+alert("tu as fait nimp")
