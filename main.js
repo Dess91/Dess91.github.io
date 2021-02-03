@@ -1,6 +1,6 @@
 
 document.querySelector("h1").onclick =() => {
-    alert("je suis une mega baguette")
+   document.querySelector ("p").style.transform = "none"
 }
 
 alert("Test")
