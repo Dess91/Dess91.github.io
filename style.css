@@ -19,6 +19,6 @@ body{
 
 p {
     transition: all 0.3s ease-out;   
-     ;
+     transform: scaleY(0);
 }
 
